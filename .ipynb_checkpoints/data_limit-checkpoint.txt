@@ -1,0 +1,5 @@
+IGNORE
+
+Note to self
+
+Command for handling lots of data: jupyter notebook --ServerApp.iopub_data_rate_limit=10000000
