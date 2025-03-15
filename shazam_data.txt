@@ -276,15 +276,15 @@ Rank	Title	Artist	URL	Featured Type	Featured Title	Featured Owner
 6	APT.	ROSÉ & Bruno Mars	https://www.shazam.com/song/1771105935/apt	PLAYLIST	Friday Feeling	Apple Music Pop
 6	APT.	ROSÉ & Bruno Mars	https://www.shazam.com/song/1771105935/apt	PLAYLIST	Pure Party	Apple Music Party
 7	Die With A Smile	Lady Gaga & Bruno Mars	https://www.shazam.com/song/1792667027/die-with-a-smile	ALBUM	MAYHEM	Lady Gaga
+7	Die With A Smile	Lady Gaga & Bruno Mars	https://www.shazam.com/song/1792667027/die-with-a-smile	PLAYLIST	Today’s Hits	Apple Music Hits
 7	Die With A Smile	Lady Gaga & Bruno Mars	https://www.shazam.com/song/1792667027/die-with-a-smile	PLAYLIST	Bruno Mars Essentials	Apple Music Pop
 7	Die With A Smile	Lady Gaga & Bruno Mars	https://www.shazam.com/song/1792667027/die-with-a-smile	PLAYLIST	Halloween Party	Apple Music
-7	Die With A Smile	Lady Gaga & Bruno Mars	https://www.shazam.com/song/1792667027/die-with-a-smile	PLAYLIST	Today’s Hits	Apple Music Hits
 7	Die With A Smile	Lady Gaga & Bruno Mars	https://www.shazam.com/song/1792667027/die-with-a-smile	PLAYLIST	Family Pop	Apple Music Family
 7	Die With A Smile	Lady Gaga & Bruno Mars	https://www.shazam.com/song/1792667027/die-with-a-smile	PLAYLIST	Lady Gaga Essentials	Apple Music Pop
 7	Die With A Smile	Lady Gaga & Bruno Mars	https://www.shazam.com/song/1792667027/die-with-a-smile	PLAYLIST	Party Starters	Apple Music Pop
 7	Die With A Smile	Lady Gaga & Bruno Mars	https://www.shazam.com/song/1792667027/die-with-a-smile	PLAYLIST	Happy Hits	Apple Music Pop
+7	Die With A Smile	Lady Gaga & Bruno Mars	https://www.shazam.com/song/1792667027/die-with-a-smile	PLAYLIST	Office DJ	Apple Music Pop
 7	Die With A Smile	Lady Gaga & Bruno Mars	https://www.shazam.com/song/1792667027/die-with-a-smile	PLAYLIST	Today’s Hits: Best of 2024	Apple Music Hits
-7	Die With A Smile	Lady Gaga & Bruno Mars	https://www.shazam.com/song/1792667027/die-with-a-smile	PLAYLIST	Pure Romance	Apple Music Pop
 7	Die With A Smile	Lady Gaga & Bruno Mars	https://www.shazam.com/song/1792667027/die-with-a-smile	PLAYLIST	A-List Pop	Apple Music Pop
 8	Ordinary	Alex Warren	https://www.shazam.com/song/1793663645/ordinary	ALBUM	Ordinary - Single	Alex Warren
 8	Ordinary	Alex Warren	https://www.shazam.com/song/1793663645/ordinary	PLAYLIST	A-List Pop	Apple Music Pop
@@ -397,27 +397,27 @@ Rank	Title	Artist	URL	Featured Type	Featured Title	Featured Owner
 17	Proud Of Me	Fridayy & Meek Mill	https://www.shazam.com/song/1792545970/proud-of-me	PLAYLIST	Tearjerkers	Apple Music R&B
 17	Proud Of Me	Fridayy & Meek Mill	https://www.shazam.com/song/1792545970/proud-of-me	PLAYLIST	R&B Hits: 2024	Apple Music R&B
 18	tv off (feat. Lefty Gunplay)	Kendrick Lamar	https://www.shazam.com/song/1781270540/tv-off-feat-lefty-gunplay	ALBUM	GNX	Kendrick Lamar
-18	tv off (feat. Lefty Gunplay)	Kendrick Lamar	https://www.shazam.com/song/1781270540/tv-off-feat-lefty-gunplay	PLAYLIST	Hip-Hop Workout	Apple Music Fitness
 18	tv off (feat. Lefty Gunplay)	Kendrick Lamar	https://www.shazam.com/song/1781270540/tv-off-feat-lefty-gunplay	PLAYLIST	Today’s Hits	Apple Music Hits
-18	tv off (feat. Lefty Gunplay)	Kendrick Lamar	https://www.shazam.com/song/1781270540/tv-off-feat-lefty-gunplay	PLAYLIST	Hip-Hop Hits	Apple Music Hip-Hop
+18	tv off (feat. Lefty Gunplay)	Kendrick Lamar	https://www.shazam.com/song/1781270540/tv-off-feat-lefty-gunplay	PLAYLIST	Hip-Hop Workout	Apple Music Fitness
+18	tv off (feat. Lefty Gunplay)	Kendrick Lamar	https://www.shazam.com/song/1781270540/tv-off-feat-lefty-gunplay	PLAYLIST	Rap Life	Apple Music Hip-Hop
 18	tv off (feat. Lefty Gunplay)	Kendrick Lamar	https://www.shazam.com/song/1781270540/tv-off-feat-lefty-gunplay	PLAYLIST	R&B Now	Apple Music R&B
+18	tv off (feat. Lefty Gunplay)	Kendrick Lamar	https://www.shazam.com/song/1781270540/tv-off-feat-lefty-gunplay	PLAYLIST	Hip-Hop Hits	Apple Music Hip-Hop
 18	tv off (feat. Lefty Gunplay)	Kendrick Lamar	https://www.shazam.com/song/1781270540/tv-off-feat-lefty-gunplay	PLAYLIST	Party Starters	Apple Music Pop
-18	tv off (feat. Lefty Gunplay)	Kendrick Lamar	https://www.shazam.com/song/1781270540/tv-off-feat-lefty-gunplay	PLAYLIST	R&B Hits	Apple Music R&B
 18	tv off (feat. Lefty Gunplay)	Kendrick Lamar	https://www.shazam.com/song/1781270540/tv-off-feat-lefty-gunplay	PLAYLIST	Me and Bae	Apple Music R&B
 18	tv off (feat. Lefty Gunplay)	Kendrick Lamar	https://www.shazam.com/song/1781270540/tv-off-feat-lefty-gunplay	PLAYLIST	SZA Essentials	Apple Music R&B
-18	tv off (feat. Lefty Gunplay)	Kendrick Lamar	https://www.shazam.com/song/1781270540/tv-off-feat-lefty-gunplay	PLAYLIST	Pure Motivation	Apple Music Pop
 18	tv off (feat. Lefty Gunplay)	Kendrick Lamar	https://www.shazam.com/song/1781270540/tv-off-feat-lefty-gunplay	PLAYLIST	Kendrick Lamar Essentials	Apple Music Hip-Hop
+18	tv off (feat. Lefty Gunplay)	Kendrick Lamar	https://www.shazam.com/song/1781270540/tv-off-feat-lefty-gunplay	PLAYLIST	Pure Motivation	Apple Music Pop
 19	Lose Control	Teddy Swims	https://www.shazam.com/song/1691699836/lose-control	ALBUM	I've Tried Everything But Therapy (Part 1)	Teddy Swims
 19	Lose Control	Teddy Swims	https://www.shazam.com/song/1691699836/lose-control	PLAYLIST	Today’s Hits	Apple Music Hits
 19	Lose Control	Teddy Swims	https://www.shazam.com/song/1691699836/lose-control	PLAYLIST	Family Pop	Apple Music Family
 19	Lose Control	Teddy Swims	https://www.shazam.com/song/1691699836/lose-control	PLAYLIST	Acoustic Hits	Apple Music Pop
-19	Lose Control	Teddy Swims	https://www.shazam.com/song/1691699836/lose-control	PLAYLIST	Happy Hits	Apple Music Pop
 19	Lose Control	Teddy Swims	https://www.shazam.com/song/1691699836/lose-control	PLAYLIST	Easy Hits	Apple Music Pop
-19	Lose Control	Teddy Swims	https://www.shazam.com/song/1691699836/lose-control	PLAYLIST	Teddy Swims Essentials	Apple Music Pop
-19	Lose Control	Teddy Swims	https://www.shazam.com/song/1691699836/lose-control	PLAYLIST	Today’s Hits: Best of 2024	Apple Music Hits
-19	Lose Control	Teddy Swims	https://www.shazam.com/song/1691699836/lose-control	PLAYLIST	A-List Pop	Apple Music Pop
-19	Lose Control	Teddy Swims	https://www.shazam.com/song/1691699836/lose-control	PLAYLIST	Today’s Easy Hits	Apple Music Hits
+19	Lose Control	Teddy Swims	https://www.shazam.com/song/1691699836/lose-control	PLAYLIST	Happy Hits	Apple Music Pop
 19	Lose Control	Teddy Swims	https://www.shazam.com/song/1691699836/lose-control	PLAYLIST	Office DJ	Apple Music Pop
+19	Lose Control	Teddy Swims	https://www.shazam.com/song/1691699836/lose-control	PLAYLIST	Today’s Hits: Best of 2024	Apple Music Hits
+19	Lose Control	Teddy Swims	https://www.shazam.com/song/1691699836/lose-control	PLAYLIST	Teddy Swims Essentials	Apple Music Pop
+19	Lose Control	Teddy Swims	https://www.shazam.com/song/1691699836/lose-control	PLAYLIST	A-List Pop	Apple Music Pop
+19	Lose Control	Teddy Swims	https://www.shazam.com/song/1691699836/lose-control	PLAYLIST	Top Hits Run	Apple Music Fitness
 20	Scared (Sped Up)	Bushy B	https://www.shazam.com/song/1799300928/scared-sped-up	ALBUM	Scared (Sped Up) - Single	Bushy B
 21	Somebody That I Used to Know (feat. Kimbra)	Gotye	https://www.shazam.com/song/1440754487/somebody-that-i-used-to-know-feat-kimbra	ALBUM	Making Mirrors	Gotye
 21	Somebody That I Used to Know (feat. Kimbra)	Gotye	https://www.shazam.com/song/1440754487/somebody-that-i-used-to-know-feat-kimbra	PLAYLIST	Pure Throwback	Apple Music Pop
@@ -1313,16 +1313,16 @@ Rank	Title	Artist	URL	Featured Type	Featured Title	Featured Owner
 112	Iris	The Goo Goo Dolls	https://www.shazam.com/song/1109658204/iris	PLAYLIST	Deadpool Official Playlist	Disney
 112	Iris	The Goo Goo Dolls	https://www.shazam.com/song/1109658204/iris	PLAYLIST	Movie Hits Essentials	Apple Music Film, TV & Stage
 113	Dum, Dumb, and Dumber	Lil Baby, Young Thug & Future	https://www.shazam.com/song/1786672708/dum-dumb-and-dumber	ALBUM	WHAM	Lil Baby
+113	Dum, Dumb, and Dumber	Lil Baby, Young Thug & Future	https://www.shazam.com/song/1786672708/dum-dumb-and-dumber	PLAYLIST	Rap Life	Apple Music Hip-Hop
 113	Dum, Dumb, and Dumber	Lil Baby, Young Thug & Future	https://www.shazam.com/song/1786672708/dum-dumb-and-dumber	PLAYLIST	Me and Bae	Apple Music R&B
 113	Dum, Dumb, and Dumber	Lil Baby, Young Thug & Future	https://www.shazam.com/song/1786672708/dum-dumb-and-dumber	PLAYLIST	It's Lit!	Apple Music Hip-Hop
 113	Dum, Dumb, and Dumber	Lil Baby, Young Thug & Future	https://www.shazam.com/song/1786672708/dum-dumb-and-dumber	PLAYLIST	#OnRepeat	Apple Music Hip-Hop
-113	Dum, Dumb, and Dumber	Lil Baby, Young Thug & Future	https://www.shazam.com/song/1786672708/dum-dumb-and-dumber	PLAYLIST	Chill Rap	Apple Music Hip-Hop
-113	Dum, Dumb, and Dumber	Lil Baby, Young Thug & Future	https://www.shazam.com/song/1786672708/dum-dumb-and-dumber	PLAYLIST	Hip-Hop in Spatial Audio	Apple Music Hip-Hop
-113	Dum, Dumb, and Dumber	Lil Baby, Young Thug & Future	https://www.shazam.com/song/1786672708/dum-dumb-and-dumber	PLAYLIST	Basketball	Apple Music
-113	Dum, Dumb, and Dumber	Lil Baby, Young Thug & Future	https://www.shazam.com/song/1786672708/dum-dumb-and-dumber	PLAYLIST	Hip-Hop Drive	Apple Music
 113	Dum, Dumb, and Dumber	Lil Baby, Young Thug & Future	https://www.shazam.com/song/1786672708/dum-dumb-and-dumber	PLAYLIST	New in Hip-Hop	Apple Music Hip-Hop
+113	Dum, Dumb, and Dumber	Lil Baby, Young Thug & Future	https://www.shazam.com/song/1786672708/dum-dumb-and-dumber	PLAYLIST	Chill Rap	Apple Music Hip-Hop
+113	Dum, Dumb, and Dumber	Lil Baby, Young Thug & Future	https://www.shazam.com/song/1786672708/dum-dumb-and-dumber	PLAYLIST	Hip-Hop Drive	Apple Music
+113	Dum, Dumb, and Dumber	Lil Baby, Young Thug & Future	https://www.shazam.com/song/1786672708/dum-dumb-and-dumber	PLAYLIST	Hip-Hop in Spatial Audio	Apple Music Hip-Hop
 113	Dum, Dumb, and Dumber	Lil Baby, Young Thug & Future	https://www.shazam.com/song/1786672708/dum-dumb-and-dumber	PLAYLIST	Rap Heavy Hitters	Apple Music Hip-Hop
-113	Dum, Dumb, and Dumber	Lil Baby, Young Thug & Future	https://www.shazam.com/song/1786672708/dum-dumb-and-dumber	PLAYLIST	All the Way Up	Apple Music Hip-Hop
+113	Dum, Dumb, and Dumber	Lil Baby, Young Thug & Future	https://www.shazam.com/song/1786672708/dum-dumb-and-dumber	PLAYLIST	Future Hits	Apple Music
 114	'Bout It	JMSN	https://www.shazam.com/song/1790289519/bout-it	ALBUM	JMSN	JMSN
 114	'Bout It	JMSN	https://www.shazam.com/song/1790289519/bout-it	PLAYLIST	Ep. 24 MSFTS Playlist	MSFTS FREQUENCY
 115	SOS (Sex on Sight)	Victoria Monét & USHER	https://www.shazam.com/song/1764994409/sos-sex-on-sight	ALBUM	SOS (Sex on Sight) - EP	Victoria Monét & USHER
